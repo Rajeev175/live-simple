@@ -7,7 +7,7 @@
      }
      else{
          header.classList.remove('triggered')
-     }    
+     }     
  })
 
  const insWrapper = document.querySelector('.inspiration-wrapper')
